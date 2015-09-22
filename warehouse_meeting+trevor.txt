@@ -1,0 +1,12 @@
+
+
+
+Warehouse Dev
+
+stabilize prod
+ware-318
+deployment pipeline is broken and unstable
+advanced monitoring and trevor
+
+sensu alerts does updates on uptime and cpu time.
+use test plans and check if something is actually working or not
